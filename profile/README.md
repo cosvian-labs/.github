@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="logo" width="200" alt="Cosvian Logo"/>
+  <img src="https://i.postimg.cc/Kk7f2fQ9/logo-png.png" width="200" alt="Cosvian Logo"/>
 </p>
 
 <p align="center">
