@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/Kk7f2fQ9/logo-png.png" width="200" alt="Cosvian Logo"/>
+  <img src="https://github.com/cosvian-labs/interchain-app/blob/1bd2d8378864f0e0bf213fa9d14b791138052700/public/logos/logo-png-radius.png" width="200" alt="Cosvian Logo"/>
 </p>
 
 <p align="center">
